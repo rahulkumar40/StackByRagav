@@ -1,0 +1,294 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Celebritey_Problem",
+      "request": "launch",
+      "mainClass": "Day_07_Extra.Celebritey_Problem",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "PostFixToInfix",
+      "request": "launch",
+      "mainClass": "Day_06_InFix.PostFixToInfix",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "PostFixToPreFix",
+      "request": "launch",
+      "mainClass": "Day_06_InFix.PostFixToPreFix",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "PreFixToPostFix",
+      "request": "launch",
+      "mainClass": "Day_06_InFix.PreFixToPostFix",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "PreFixEvalution",
+      "request": "launch",
+      "mainClass": "Day_06_InFix.PreFixEvalution",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "PostFixEvalution",
+      "request": "launch",
+      "mainClass": "Day_06_InFix.PostFixEvalution",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "PostFix",
+      "request": "launch",
+      "mainClass": "Day_06_InFix.PostFix",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "PreFix",
+      "request": "launch",
+      "mainClass": "Day_06_InFix.PreFix",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "Infix",
+      "request": "launch",
+      "mainClass": "Day_06_InFix.Infix",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "MinStack_03",
+      "request": "launch",
+      "mainClass": "Day_05.MinStack_03",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "StockSpan_02",
+      "request": "launch",
+      "mainClass": "Practice_02.StockSpan_02",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "PreviouseGreatest_01",
+      "request": "launch",
+      "mainClass": "Practice_02.PreviouseGreatest_01",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "NextGreatest",
+      "request": "launch",
+      "mainClass": "Practice_01.NextGreatest",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "LinkedListKK",
+      "request": "launch",
+      "mainClass": "LinkedListKK",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "ConsecutiveRemove_04",
+      "request": "launch",
+      "mainClass": "Practice_01.ConsecutiveRemove_04",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "ValidParenthesis_03",
+      "request": "launch",
+      "mainClass": "Practice_01.ValidParenthesis_03",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "CountBractesToBal_02",
+      "request": "launch",
+      "mainClass": "Practice_01.CountBractesToBal_02",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "BalanceBractes_01",
+      "request": "launch",
+      "mainClass": "Practice_01.BalanceBractes_01",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "Ok",
+      "request": "launch",
+      "mainClass": "TrapingRainWater.Ok",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "ValidParenthasis_02",
+      "request": "launch",
+      "mainClass": "Day_05.ValidParenthasis_02",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "MinOfLeft_03",
+      "request": "launch",
+      "mainClass": "Day_03.MinOfLeft_03",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "PreviouseGretest_02",
+      "request": "launch",
+      "mainClass": "Day_04.PreviouseGretest_02",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "CopyStack_02",
+      "request": "launch",
+      "mainClass": "Day_01.CopyStack_02",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "DisplayRecursively_05",
+      "request": "launch",
+      "mainClass": "Day_01.DisplayRecursively_05",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "DisplayStack_04",
+      "request": "launch",
+      "mainClass": "Day_01.DisplayStack_04",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "InsetAtBottom_03",
+      "request": "launch",
+      "mainClass": "Day_01.InsetAtBottom_03",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "Stack_01",
+      "request": "launch",
+      "mainClass": "Day_01.Stack_01",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "UnderFlowOverFlow_06",
+      "request": "launch",
+      "mainClass": "Day_01.UnderFlowOverFlow_06",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "StackArrayImplementaion",
+      "request": "launch",
+      "mainClass": "Day_02.StackArrayImplementaion",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "StackLinkedListImplementaion",
+      "request": "launch",
+      "mainClass": "Day_02.StackLinkedListImplementaion",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "BalancedBrackest_01",
+      "request": "launch",
+      "mainClass": "Day_03.BalancedBrackest_01",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "LeetCode_20",
+      "request": "launch",
+      "mainClass": "Day_03.LeetCode_20",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "NextGraterElement",
+      "request": "launch",
+      "mainClass": "Day_04.NextGraterElement",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "PreviouseGratestElement_03",
+      "request": "launch",
+      "mainClass": "Day_04.PreviouseGratestElement_03",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "RemoveConsecutiveSubSequences",
+      "request": "launch",
+      "mainClass": "Day_04.RemoveConsecutiveSubSequences",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "StockSpanProblem_04",
+      "request": "launch",
+      "mainClass": "Day_04.StockSpanProblem_04",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "RemoveAtIdx0rAny_03",
+      "request": "launch",
+      "mainClass": "HomeWork.RemoveAtIdx0rAny_03",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "pushAtReverseStack_02",
+      "request": "launch",
+      "mainClass": "HomeWork.pushAtReverseStack_02",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "reveseStackRecurs_01",
+      "request": "launch",
+      "mainClass": "HomeWork.reveseStackRecurs_01",
+      "projectName": "StackByRagav_d79e1c30"
+    },
+    {
+      "type": "java",
+      "name": "j",
+      "request": "launch",
+      "mainClass": "j",
+      "projectName": "StackByRagav_d79e1c30"
+    }
+  ]
+}
